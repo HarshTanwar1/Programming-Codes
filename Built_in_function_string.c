@@ -108,7 +108,7 @@ int main(){
     gets(s2);
     checksame(s,s2);
     length(s);
-    lower(s);
+    lower(s); 
     upper(s);
     concatenate(s,s2);
     palidrome(s);
